@@ -1,0 +1,17 @@
+.mainwrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    position: relative;
+    top: 18em;
+
+    button{
+        width: 20%;
+    }
+    
+}
+.flexify{
+    display: flex;
+    flex-direction: column;
+}
